@@ -1,0 +1,17 @@
+#ursk {
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+canvas {
+    border:white ;
+    border-radius: 20px;
+    background-color: white;
+    
+}
+#heading {
+    background-color: aqua;
+    border-radius: 20px;
+    width:400px;
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
